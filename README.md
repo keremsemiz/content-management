@@ -15,7 +15,7 @@ This is a simple content management API built using FastAPI and SQLAlchemy. The 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/content-management-api.git
+    git clone https://github.com/keremsemiz/content-management.git
     cd content-management-api
     ```
 
@@ -33,7 +33,7 @@ This is a simple content management API built using FastAPI and SQLAlchemy. The 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/content-management-api.git
+    git clone https://github.com/keremsemiz/content-management.git
     cd content-management-api
     ```
 
